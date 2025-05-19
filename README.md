@@ -34,7 +34,7 @@
 
 ## Структура проекта
 *	[Ноутбук с пошаговой разработкой кода, снабженный подробными комментариями по каждому этапу.](https://github.com/Advantl/RFM-analysis/blob/main/RFM-analysis.ipynb) 
-*	Итоговый SQL-скрипт. 
+*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/RFM_analysis_sql_script.sql) 
 
 ## Tech stack 
 SQL + Python
