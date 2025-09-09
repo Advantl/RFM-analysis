@@ -33,7 +33,8 @@
 3. Интерпретация полученных данных и рекомендации для взаимодействия с каждым из сегментов.
 
 ## Структура проекта
-*	[Ноутбук с пошаговой разработкой кода, снабженный подробными комментариями по каждому этапу.](https://github.com/Advantl/RFM-analysis/blob/main/RFM-analysis.ipynb) 
+* [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)
+*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/sql_script_development.ipynb) 
 *	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/RFM_analysis_sql_script.sql) 
 
 ## Tech stack 
