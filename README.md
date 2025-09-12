@@ -49,7 +49,7 @@
 
 RFM Segmentation Statistics.  
 
-<table style="font-size:14px; width:90%; border-collapse: collapse; text-align: center;">
+<table style="font-size:14px; width:70%; border-collapse: collapse; text-align: center;">
   <thead>
     <tr style="background-color:#f2f2f2;">
       <th style="border:1px solid #ddd; padding:8px;">rfm_categories</th>
