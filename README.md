@@ -47,7 +47,7 @@
 
 ## Insights Deep-Dive  
 
-RFM Segmentation Plot   
+RFM Segmentation Plot.   
 ![RFM Segmentation Plot](https://github.com/Advantl/RFM-analysis/blob/main/rfm_categories.jpg)
 
    
@@ -116,7 +116,7 @@ RFM Segmentation Statistics.
 | **Cannot Lose Them** (133, 132, 113, 123) <br> Когда-то были «Champions», но давно не покупали. | Очень важные клиенты, риск потерять лучших. | Почему пропали ценные клиенты? Как вернуть их быстрее всего? | Сильные персональные стимулы (спец. предложения, call-центр, премиальные скидки). |
 | **Hibernating** (112, 111) <br> Давно не покупали, низкая частота и сумма | Наименее ценные клиенты. | Нужно ли вообще тратить бюджет на этих клиентов? | Дешёвые массовые каналы (email-рассылки), напоминания, push, но с ограничением затрат. |
 
-## Структура проекта  
+## Technical Project Information 
 * [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)  
 *	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)   
 *	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)   
