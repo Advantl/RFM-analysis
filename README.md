@@ -47,6 +47,10 @@
 
 ## Insights Deep-Dive  
 
+
+![RFM Segmentation Plot](https://github.com/Advantl/RFM-analysis/blob/main/rfm_categories.jpg)
+
+   
 RFM Segmentation Statistics.  
 
 | rfm categories        | min recency | max recency | min frequency | max frequency | mean monetary | cnt |
