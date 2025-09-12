@@ -49,9 +49,17 @@
 
 RFM Segmentation Statistics.  
 
-| rfm categories | min recency | max recency | min frequency | max frequency | mean monetary | cnt | |-----------------------|-------------|-------------|---------------|---------------|---------------|-----| | Champions | 1 | 186 | 4 | 13 | 6996 | 900 | | Cannot Lose Them | 188 | 332 | 1 | 12 | 4181 | 197 | | Loyal | 1 | 187 | 2 | 10 | 3898 | 398 | | Potential Loyalist | 1 | 185 | 2 | 11 | 1769 | 507 | | Promising | 1 | 187 | 1 | 3 | 1541 | 1736| | At Risk | 188 | 327 | 2 | 3 | 1350 | 266 | | Hibernating Customers | 188 | 333 | 1 | 1 | 881 | 955 | | New Customers | 1 | 187 | 1 | 1 | 414 | 731 |
-   
-      
+| rfm categories        | min recency | max recency | min frequency | max frequency | mean monetary | cnt |
+|-----------------------|-------------|-------------|---------------|---------------|---------------|-----|
+| Champions             | 1           | 186         | 4             | 13            | 6996          | 900 |
+| Cannot Lose Them      | 188         | 332         | 1             | 12            | 4181          | 197 |
+| Loyal                 | 1           | 187         | 2             | 10            | 3898          | 398 |
+| Potential Loyalist    | 1           | 185         | 2             | 11            | 1769          | 507 |
+| Promising             | 1           | 187         | 1             | 3             | 1541          | 1736|
+| At Risk               | 188         | 327         | 2             | 3             | 1350          | 266 |
+| Hibernating Customers | 188         | 333         | 1             | 1             | 881           | 955 |
+| New Customers         | 1           | 187         | 1             | 1             | 414           | 731 |
+     
      
 -	**Champions (900 клиентов, средний чек 6996)**   
 Самые ценные клиенты с высокой частотой и давностью покупок. Сегмент приносит наибольшую выручку. Требует удержания через персональные программы лояльности и VIP-сервисы.  
