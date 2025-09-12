@@ -115,8 +115,8 @@ RFM Segmentation Statistics.
 
 ## Структура проекта  
 * [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)  
-*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/sql_script_development.ipynb)   
-*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/RFM_analysis_sql_script.sql)   
+*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)   
+*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)   
 
 ## Tech stack 
 SQL + Python
