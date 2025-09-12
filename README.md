@@ -49,7 +49,7 @@
 
 RFM Segmentation Statistics.  
 
-<div style="font-size: 14px; width: 80%;">
+<div style="font-size: 12px; width: 70%;">
 
 | rfm_categories        | min_recency | max_recency | min_frequency | max_frequency | mean_monetary | cnt |
 |-----------------------|-------------|-------------|---------------|---------------|---------------|-----|
