@@ -49,6 +49,8 @@
 
 RFM Segmentation Statistics.  
 
+<div style="font-size: 14px; width: 80%;">
+
 | rfm_categories        | min_recency | max_recency | min_frequency | max_frequency | mean_monetary | cnt |
 |-----------------------|-------------|-------------|---------------|---------------|---------------|-----|
 | Champions             | 1           | 186         | 4             | 13            | 6996          | 900 |
@@ -59,7 +61,7 @@ RFM Segmentation Statistics.
 | At Risk               | 188         | 327         | 2             | 3             | 1350          | 266 |
 | Hibernating Customers | 188         | 333         | 1             | 1             | 881           | 955 |
 | New Customers         | 1           | 187         | 1             | 1             | 414           | 731 |
-       
+</div>       
       
      
 -	**Champions (900 клиентов, средний чек 6996)**   
