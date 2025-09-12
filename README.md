@@ -49,53 +49,7 @@
 
 RFM Segmentation Statistics.  
 
-<table style="font-size:14px; width:70%; border-collapse: collapse; text-align: center;">
-  <thead>
-    <tr style="background-color:#f2f2f2;">
-      <th style="border:1px solid #ddd; padding:8px;">rfm_categories</th>
-      <th style="border:1px solid #ddd; padding:8px;">min_recency</th>
-      <th style="border:1px solid #ddd; padding:8px;">max_recency</th>
-      <th style="border:1px solid #ddd; padding:8px;">min_frequency</th>
-      <th style="border:1px solid #ddd; padding:8px;">max_frequency</th>
-      <th style="border:1px solid #ddd; padding:8px;">mean_monetary</th>
-      <th style="border:1px solid #ddd; padding:8px;">cnt</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#ffffff;">
-      <td style="border:1px solid #ddd; padding:8px;">Champions</td>
-      <td>1</td><td>186</td><td>4</td><td>13</td><td>6996</td><td>900</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td style="border:1px solid #ddd; padding:8px;">Cannot Lose Them</td>
-      <td>188</td><td>332</td><td>1</td><td>12</td><td>4181</td><td>197</td>
-    </tr>
-    <tr style="background-color:#ffffff;">
-      <td style="border:1px solid #ddd; padding:8px;">Loyal</td>
-      <td>1</td><td>187</td><td>2</td><td>10</td><td>3898</td><td>398</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td style="border:1px solid #ddd; padding:8px;">Potential Loyalist</td>
-      <td>1</td><td>185</td><td>2</td><td>11</td><td>1769</td><td>507</td>
-    </tr>
-    <tr style="background-color:#ffffff;">
-      <td style="border:1px solid #ddd; padding:8px;">Promising</td>
-      <td>1</td><td>187</td><td>1</td><td>3</td><td>1541</td><td>1736</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td style="border:1px solid #ddd; padding:8px;">At Risk</td>
-      <td>188</td><td>327</td><td>2</td><td>3</td><td>1350</td><td>266</td>
-    </tr>
-    <tr style="background-color:#ffffff;">
-      <td style="border:1px solid #ddd; padding:8px;">Hibernating Customers</td>
-      <td>188</td><td>333</td><td>1</td><td>1</td><td>881</td><td>955</td>
-    </tr>
-    <tr style="background-color:#f9f9f9;">
-      <td style="border:1px solid #ddd; padding:8px;">New Customers</td>
-      <td>1</td><td>187</td><td>1</td><td>1</td><td>414</td><td>731</td>
-    </tr>
-  </tbody>
-</table>
+| rfm categories | min recency | max recency | min frequency | max frequency | mean monetary | cnt | |-----------------------|-------------|-------------|---------------|---------------|---------------|-----| | Champions | 1 | 186 | 4 | 13 | 6996 | 900 | | Cannot Lose Them | 188 | 332 | 1 | 12 | 4181 | 197 | | Loyal | 1 | 187 | 2 | 10 | 3898 | 398 | | Potential Loyalist | 1 | 185 | 2 | 11 | 1769 | 507 | | Promising | 1 | 187 | 1 | 3 | 1541 | 1736| | At Risk | 188 | 327 | 2 | 3 | 1350 | 266 | | Hibernating Customers | 188 | 333 | 1 | 1 | 881 | 955 | | New Customers | 1 | 187 | 1 | 1 | 414 | 731 |
    
       
      
