@@ -119,7 +119,8 @@ RFM Segmentation Statistics.
 ## Technical Project Information 
 * [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)  
 *	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)   
-*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)   
+*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)
+*	[Визуализация RFM-сегментации в Metabase](https://metabase.simulative.ru/public/question/7201f450-fbbd-4713-9c63-5eb4c234bf9a)
 
 ## Tech stack 
 SQL + Python
