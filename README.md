@@ -130,7 +130,8 @@ Python:
 - Data Manipulation & Analysis: pandas, numpy  
 - Visualization: seaborn, matplotlib, plotly  
 - Database Interaction: sqlalchemy, Jupyter %sql magic  
-- ETL & Data Preparation: обработка данных, очистка, работа с выбросами  
+- ETL & Data Preparation: обработка данных, очистка, работа с выбросами
+  
 SQL (PostgreSQL):  
 - CTE (with)  
 - Temp Tables  
@@ -140,6 +141,7 @@ SQL (PostgreSQL):
 - Percentiles (percentile_cont)  
 - Data Filtering & Transformation  
 - Conditions  
-- Converting Data Types  
+- Converting Data Types
+  
 BI / Visualization:  
 - Metabase: построение графиков / визуализация RFM-сегментов  
