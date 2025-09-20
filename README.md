@@ -126,5 +126,20 @@ RFM Segmentation Statistics.
 *	[Визуализация RFM-сегментации в Metabase](https://metabase.simulative.ru/public/question/7201f450-fbbd-4713-9c63-5eb4c234bf9a)
 
 ## Tech stack 
-SQL + Python + Metabase
-  
+Python:  
+- Data Manipulation & Analysis: pandas, numpy  
+- Visualization: seaborn, matplotlib, plotly  
+- Database Interaction: sqlalchemy, Jupyter %sql magic  
+- ETL & Data Preparation: обработка данных, очистка, работа с выбросами  
+SQL (PostgreSQL):  
+- CTE (with)  
+- Temp Tables  
+- Subqueries  
+- Window Functions  
+- Aggregate Functions  
+- Percentiles (percentile_cont)  
+- Data Filtering & Transformation  
+- Conditions  
+- Converting Data Types  
+BI / Visualization:  
+- Metabase: построение графиков / визуализация RFM-сегментов  
