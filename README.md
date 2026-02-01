@@ -1,5 +1,19 @@
-# RFM-analysis
-"RFM-анализ клиентской базы аптечной сети"
+# RFM-analysis  
+"RFM-анализ клиентской базы аптечной сети"  
+
+Table of Contents  
+
+- [Business Problem](#business-problem)  
+- [About Data](#about-data)  
+- [Project Background](#project-background)  
+- [Executive Summary](#executive-summary)  
+- [Insights Deep-Dive](#insights-deep-dive)  
+- [Recommendations and Next Steps](#recommendations-and-next-steps)  
+- [Business Impact & ROI](#business-impact--roi)  
+- [Technical Project Information](#technical-project-information)  
+- [Tech Stack](#tech-stack)  
+  
+***
 
 ## Business Problem  
 В условиях предстоящего снижения покупательской активности, вызванного сезонным спадом, перед аптечной сетью стоит задача оптимизации маркетинговых затрат. Компания располагает инструментом SMS-рассылок, однако использование его в массовом формате сопряжено с риском неоправданных расходов. В связи с этим возникает необходимость разработки механизма персонализированной коммуникации с клиентами. Суть задачи заключается в том, чтобы исключить из целевых кампаний покупателей с минимальной вовлечённостью (например, совершивших единичную и малозначимую покупку), и сосредоточить усилия на сегментах, обладающих высоким потенциалом увеличения среднего чека и вероятностью отклика на персональные предложения.  
@@ -180,12 +194,12 @@ RFM Segmentation Statistics.
 - 1 SMS для upsell-кампаний,  
 - 2 SMS для nurture- и реактивационных кампаний.  
 Оценка совокупных затрат:  
-| Тип кампании                            | Оценка затрат, ₽ |
-| --------------------------------------- | ---------------- |
-| Upsell (Champions, Loyal)               | ~2 600           |
-| Nurture (Potential Loyalist)            | ~2 000           |
-| Реактивация (Cannot Lose Them, At Risk) | ~1 300           |
-| **Итого**                               | **~5 900**       |
+| Тип кампании                            | Оценка затрат, ₽ |  
+| --------------------------------------- | ---------------- |  
+| Upsell (Champions, Loyal)               | ~2 600           |  
+| Nurture (Potential Loyalist)            | ~2 000           |  
+| Реактивация (Cannot Lose Them, At Risk) | ~1 300           |  
+| **Итого**                               | **~5 900**       |  
 
 ### ROI и бизнес-выводы   
 При ожидаемом приросте выручки ~726 тыс. ₽ и маркетинговых затратах ~6 тыс. ₽:  
@@ -193,7 +207,7 @@ RFM Segmentation Statistics.
 - основной вклад в эффект обеспечивают сегменты Champions, Loyal и Potential Loyalist,  
 - RFM-сегментация позволяет перераспределить маркетинговые бюджеты в пользу наиболее ценных клиентов и отказаться от массовых неэффективных коммуникаций.
 
-Contribution chart: вклад сегментов в рост  
+**Contribution chart: вклад сегментов в рост**    
 Более 80% ожидаемого прироста формируется за счёт 3 сегментов, что позволяет оптимизировать маркетинговые затраты без потери эффекта.  
 ![RFM Contribution chart](https://github.com/Advantl/RFM-analysis/blob/main/rfm_contribution_chart.png)
 
@@ -207,9 +221,10 @@ Contribution chart: вклад сегментов в рост
 
 ## Technical Project Information 
 * [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)  
-*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)   
-*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)
-*	[Визуализация RFM-сегментации в Metabase](https://metabase.simulative.ru/public/question/7201f450-fbbd-4713-9c63-5eb4c234bf9a)
+*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)    
+*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)  
+*	[Визуализация RFM-сегментации в Metabase](https://metabase.simulative.ru/public/question/7201f450-fbbd-4713-9c63-5eb4c234bf9a)  
+* [Оценка потенциального экономического эффекта RFM-сегментации]()  
 
 ## Tech stack 
 Python:  
