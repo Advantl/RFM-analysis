@@ -65,7 +65,7 @@ Table of Contents
 ## Insights Deep-Dive  
 
 RFM Segmentation Plot.   
-![RFM Segmentation Plot](https://github.com/Advantl/RFM-analysis/blob/main/rfm_categories.jpg)
+![RFM Segmentation Plot](https://github.com/Advantl/RFM-analysis/blob/main/Visualizations/rfm_categories.jpg)
 
    
 RFM Segmentation Statistics.  
@@ -193,13 +193,14 @@ RFM Segmentation Statistics.
 - стоимость одного SMS — 2 ₽,  
 - 1 SMS для upsell-кампаний,  
 - 2 SMS для nurture- и реактивационных кампаний.  
+
 Оценка совокупных затрат:  
-| Тип кампании                            | Оценка затрат, ₽ |  
-| --------------------------------------- | ---------------- |  
-| Upsell (Champions, Loyal)               | ~2 600           |  
-| Nurture (Potential Loyalist)            | ~2 000           |  
-| Реактивация (Cannot Lose Them, At Risk) | ~1 300           |  
-| **Итого**                               | **~5 900**       |  
+| Тип кампании                            | Оценка затрат, ₽ |
+| --------------------------------------- | ---------------- |
+| Upsell (Champions, Loyal)               | ~2 600           |
+| Nurture (Potential Loyalist)            | ~2 000           |
+| Реактивация (Cannot Lose Them, At Risk) | ~1 300           |
+| **Итого**                               | **~5 900**       |
 
 ### ROI и бизнес-выводы   
 При ожидаемом приросте выручки ~726 тыс. ₽ и маркетинговых затратах ~6 тыс. ₽:  
@@ -209,7 +210,7 @@ RFM Segmentation Statistics.
 
 **Contribution chart: вклад сегментов в рост**    
 Более 80% ожидаемого прироста формируется за счёт 3 сегментов, что позволяет оптимизировать маркетинговые затраты без потери эффекта.  
-![RFM Contribution chart](https://github.com/Advantl/RFM-analysis/blob/main/rfm_contribution_chart.png)
+![RFM Contribution chart](https://github.com/Advantl/RFM-analysis/blob/main/Visualizations/rfm_contribution_chart.png)
 
 ### Ограничения и дальнейшие шаги   
 Оценка эффекта основана на сценарных допущениях и не учитывает влияние других возможных факторов (сезонность, офлайн-активности, внешние события).
@@ -220,11 +221,11 @@ RFM Segmentation Statistics.
 - последующий пересмотр uplift-гипотез на основе фактических данных.  
 
 ## Technical Project Information 
-* [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/rfm_eda.ipynb)  
-*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/rfm_sql_script_development.ipynb)    
-*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/rfm_analysis_sql_script.sql)  
+* [Exploratory Data Analysis](https://github.com/Advantl/RFM-analysis/blob/main/Notebooks/rfm_eda.ipynb)  
+*	[Пошаговая разработка SQL-скрипта с комментариями](https://github.com/Advantl/RFM-analysis/blob/main/Notebooks/rfm_sql_script_development.ipynb)    
+*	[Итоговый SQL-скрипт.](https://github.com/Advantl/RFM-analysis/blob/main/SQL/rfm_analysis_sql_script.sql)  
 *	[Визуализация RFM-сегментации в Metabase](https://metabase.simulative.ru/public/question/7201f450-fbbd-4713-9c63-5eb4c234bf9a)  
-* [Оценка потенциального экономического эффекта RFM-сегментации]()  
+* [Оценка потенциального экономического эффекта RFM-сегментации](https://github.com/Advantl/RFM-analysis/blob/main/Notebooks/rfm_business_impact_roi.ipynb)  
 
 ## Tech stack 
 Python:  
